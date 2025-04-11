@@ -1,3 +1,5 @@
+# TASK-4 
+
 # System Monitor Script
 
 This script prints CPU, memory, and disk usage in a user-friendly format.
@@ -8,5 +10,8 @@ This script prints CPU, memory, and disk usage in a user-friendly format.
 - Shows disk usage
 
 ## Usage
-```bash
 bash monitor.sh
+
+# Tasks
+
+All project steps and progress are documented in [TASKS.md](TASKS.md).
